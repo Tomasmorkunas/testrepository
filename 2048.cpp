@@ -38,7 +38,7 @@ void upmove(int a[4][4])
 		}
 	}
 }
-
+//test
 void downmove(int a[4][4])
 {
 	int i,j,li,ri;
@@ -75,7 +75,7 @@ void downmove(int a[4][4])
 		}
 	}
 }
-
+//test22
 void leftmove(int a[4][4])
 {
 	int i,j,li,ri;
