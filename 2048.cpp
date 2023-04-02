@@ -262,7 +262,7 @@ int main()
 			
 		if(!checkover(a))
 		{
-			cout<<"\n\n\t\t\tGAME OVER!!\n\n\n";
+			cout<<"\n\n\t\t\tGAME OVER!!!!\n\n\n";
 			getch();
 			break;
 		}	
